@@ -6,14 +6,14 @@ Using 14 data points, 2019-11-03 to 2019-11-16
 
 Stat|Value
 :-|:-
+**Goal**|215.00 lbs on 2020-04-01
 **Current weight**|231.75 lbs
-**Goal weight**|215.00 lbs on 2020-04-01
 **BMI**|28.82
 **Lost so far**|51.25 lbs = 18.11% of starting weight
 **Remaining**|16.75 lbs =  7.23% of current  weight
-**Progress**|75.37 %
+**Progress**|75.37%
 **Required rate**|0.86 lbs / wk
-**Actual rate**|1.36 lbs / wk = 0.59% per week  (r^2 = 0.98)
+**Actual rate**|1.36 lbs / wk = 0.59% per week  (r<sup>2</sup> = 0.98)
 **Deficit**|681 kcal / day
 **Energy burned**|179371 kcal
 **Goal reached**|2020-02-10 (51 days early)
