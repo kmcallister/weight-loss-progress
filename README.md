@@ -1,6 +1,6 @@
 # Weight loss progress
 
-Using 14 data points, starting on 2019-11-03
+Using 14 data points, 2019-11-03 to 2019-11-16
 
 ## Stats
 
