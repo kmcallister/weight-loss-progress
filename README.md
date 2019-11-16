@@ -16,10 +16,11 @@ Stat|Value
 **Actual rate**|1.36 lbs / wk = 0.59% per week  (r^2 = 0.98)
 **Deficit**|681 kcal / day
 **Energy burned**|179371 kcal
+**Goal reached**|2020-02-10 (51 days early)
+**Days done**|636
+**Days remaining**|86
 
-Goal will be reached on 2020-02-10 (51 days early)
-
-636 days done, only 86 left to go! Keep it up, you're doing great!
+## Projections
 
 Date|Projected weight|Loss
 :-|:-|:-
