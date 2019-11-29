@@ -17,7 +17,7 @@ Stat|Value
 **Deficit**|-2 kcal / day
 **Energy burned**|179393 kcal
 
-Not losing weight -- no projection available
+Not losing weight &mdash; no projection available
 
 ## Graphs
 
