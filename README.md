@@ -16,6 +16,7 @@ Stat|Value
 **Actual rate**|-0.01 lbs / wk = -0.00% per week  (r<sup>2</sup> = 0.00)
 **Deficit**|-2 kcal / day
 **Energy burned**|179393 kcal
+
 Not losing weight -- no projection available
 
 ## Graphs
