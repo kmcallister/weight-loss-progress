@@ -33,8 +33,8 @@ Date|Projected weight|Loss
 
 ![](weight-graph-alltime.png)
 
-![](weight-graph-ytd.png)
+![](weight-graph-recent.png)
 
 ![](rate-graph-alltime.png)
 
-![](rate-graph-ytd.png)
+![](rate-graph-recent.png)
