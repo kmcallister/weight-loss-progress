@@ -1,6 +1,6 @@
 # Weight loss progress
 
-Calculating trend using 21 data points, 2020-03-13 to 2020-04-03
+Calculating trend using 21 data points, 2020-03-14 to 2020-04-04
 
 ## Stats
 
@@ -13,9 +13,9 @@ Stat|Value
 **Remaining**|15.76 lbs =  6.83% of current  weight
 **Progress**|76.82%
 **Required rate**|0.41 lbs / wk
-**Actual rate**|-0.18 lbs / wk = -0.08% per week  (r<sup>2</sup> = 0.63)
-**Deficit**|-91 kcal / day
-**Energy burned**|182838 kcal
+**Actual rate**|-0.20 lbs / wk = -0.09% per week  (r<sup>2</sup> = 0.70)
+**Deficit**|-99 kcal / day
+**Energy burned**|182824 kcal
 
 Not losing weight &mdash; no projection available
 
