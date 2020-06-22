@@ -1,31 +1,31 @@
 # Weight loss progress
 
-Calculating trend using 18 data points, 2020-05-23 to 2020-06-13
+Calculating trend using 18 data points, 2020-06-01 to 2020-06-22
 
 ## Stats
 
 Stat|Value
 :-|:-
 **Goal**|215.00 lbs on 2020-12-31
-**Current weight**|232.20 lbs
-**BMI**|28.87
-**Lost so far**|50.80 lbs = 17.95% of starting weight
-**Remaining**|17.20 lbs =  7.41% of current  weight
-**Progress**|74.70%
-**Required rate**|0.60 lbs / wk
-**Actual rate**|1.02 lbs / wk = 0.44% per week  (r<sup>2</sup> = 0.85)
-**Deficit**|512 kcal / day
-**Energy burned**|177785 kcal
-**Goal reached**|2020-10-08 (84 days early)
-**Days done**|846
-**Days remaining**|117
+**Current weight**|233.24 lbs
+**BMI**|29.00
+**Lost so far**|49.76 lbs = 17.58% of starting weight
+**Remaining**|18.24 lbs =  7.82% of current  weight
+**Progress**|73.17%
+**Required rate**|0.67 lbs / wk
+**Actual rate**|0.56 lbs / wk = 0.24% per week  (r<sup>2</sup> = 0.43)
+**Deficit**|280 kcal / day
+**Energy burned**|174144 kcal
+**Goal reached**|2021-02-04 (35 days late)
+**Days done**|855
+**Days remaining**|227
 
 ## Projections
 
 Date|Projected weight|Loss
 :-|:-|:-
-**2020-06-20**|231.18|51.82
-**2020-12-31**|202.79|80.21
+**2020-06-20**|233.40|49.60
+**2020-12-31**|217.84|65.16
 
 ## Graphs
 
