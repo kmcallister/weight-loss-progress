@@ -12,7 +12,7 @@ Stat|Value
 **Lost so far**|46.76 lbs = 16.52% of starting weight
 **Remaining**|11.24 lbs =  4.76% of current  weight
 **Progress**|80.62%
-**Required rate**|0.84 lbs / wk
+**Required rate**|0.84 lbs / wk = 0.35% per week
 **Actual rate**|0.04 lbs / wk = 0.02% per week  (r<sup>2</sup> = 0.01)
 **Deficit**|19 kcal / day
 **Energy burned**|163661 kcal
