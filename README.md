@@ -18,7 +18,7 @@ Stat|Value
 **Target adjust**|32 kcal / day
 **Total burned**|187665 kcal
 **Goal reached**|2021-01-05 (5 days late)
-**Days done**|998
+**Days done**|999
 **Days remaining**|54
 
 ## Projections
