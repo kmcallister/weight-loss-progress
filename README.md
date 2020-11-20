@@ -15,7 +15,7 @@ Stat|Value
 **Required rate**|0.53 lbs / wk = 0.23% per week
 **Actual rate**|0.72 lbs / wk = 0.31% per week  (r<sup>2</sup> = 0.93)
 **Deficit**|359 kcal / day
-**Target adjust**|-94 kcal / day
+**Target adjust**|94 kcal / day
 **Total burned**|192137 kcal
 **Goal reached**|2020-12-20 (11 days early)
 **Days done**|1007
