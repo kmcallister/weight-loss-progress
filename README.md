@@ -1,22 +1,22 @@
 # Weight loss progress
 
-Calculating trend using 19 data points, 2021-06-02 to 2021-06-23
+Calculating trend using 18 data points, 2021-06-04 to 2021-06-25
 
 ## Stats
 
 Stat|Value
 :-|:-
 **Goal**|220.00 lbs on 2021-12-31
-**Current weight**|239.33 lbs
+**Current weight**|239.37 lbs
 **BMI**|29.76
-**Lost so far**|43.67 lbs = 15.43% of starting weight
-**Remaining**|19.33 lbs =  8.08% of current  weight
-**Progress**|69.32%
-**Required rate**|0.71 lbs / wk = 0.30% per week
-**Actual rate**|-0.17 lbs / wk = -0.07% per week  (r<sup>2</sup> = 0.44)
-**Deficit**|-83 kcal / day
-**Target adjust**|-437 kcal / day
-**Total burned**|152857 kcal
+**Lost so far**|43.63 lbs = 15.42% of starting weight
+**Remaining**|19.37 lbs =  8.09% of current  weight
+**Progress**|69.25%
+**Required rate**|0.72 lbs / wk = 0.30% per week
+**Actual rate**|-0.22 lbs / wk = -0.09% per week  (r<sup>2</sup> = 0.61)
+**Deficit**|-109 kcal / day
+**Target adjust**|-468 kcal / day
+**Total burned**|152689 kcal
 
 Not losing weight &mdash; no projection available
 
