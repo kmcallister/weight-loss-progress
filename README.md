@@ -1,34 +1,34 @@
 # Weight loss progress
 
-Calculating trend using 19 data points, 2022-03-01 to 2022-03-21
+Calculating trend using 19 data points, 2022-03-04 to 2022-03-24
 
 ## Stats
 
 Stat|Value
 :-|:-
 **Goal**|230.00 lbs on 2022-06-01
-**Current weight**|239.98 lbs
-**BMI**|29.84
-**Lost so far**|43.02 lbs = 15.20% of starting weight
-**Remaining**|9.98 lbs =  4.16% of current  weight
-**To past low**|15.75 lbs =  6.56% of current  weight
-**Progress**|81.17%
-**Required rate**|0.97 lbs / wk = 0.40% per week
-**Actual rate**|0.03 lbs / wk = 0.01% per week  (r<sup>2</sup> = 0.01)
-**Deficit**|13 kcal / day
-**Target adjust**|-472 kcal / day
-**Total burned**|150573 kcal
-**Goal reached**|2029-07-13 (2599 days late)
-**Days done**|1493
-**Days remaining**|2671
+**Current weight**|239.87 lbs
+**BMI**|29.82
+**Lost so far**|43.13 lbs = 15.24% of starting weight
+**Remaining**|9.87 lbs =  4.11% of current  weight
+**To past low**|15.63 lbs =  6.52% of current  weight
+**Progress**|81.39%
+**Required rate**|1.00 lbs / wk = 0.42% per week
+**Actual rate**|0.28 lbs / wk = 0.12% per week  (r<sup>2</sup> = 0.61)
+**Deficit**|140 kcal / day
+**Target adjust**|-359 kcal / day
+**Total burned**|150969 kcal
+**Goal reached**|2022-11-24 (176 days late)
+**Days done**|1496
+**Days remaining**|245
 
 ## Projections
 
 Date|Projected weight|Loss
 :-|:-|:-
-**2022-06-01**|239.71|43.29
-**2022-09-01**|239.37|43.63
-**2022-12-31**|238.91|44.09
+**2022-06-01**|237.09|45.91
+**2022-09-01**|233.40|49.60
+**2022-12-31**|228.54|54.46
 
 ## Graphs
 
