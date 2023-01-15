@@ -32,8 +32,6 @@ Date|Projected weight|Loss
 
 ![](weight-graph-alltime.png)
 
-![](weight-graph-covid.png)
-
 ![](weight-graph-recent.png)
 
 ![](rate-graph-alltime.png)
