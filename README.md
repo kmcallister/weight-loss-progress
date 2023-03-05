@@ -1,32 +1,33 @@
 # Weight loss progress
 
-Calculating trend using 20 data points, 2023-02-12 to 2023-03-04
+Calculating trend using 20 data points, 2023-02-13 to 2023-03-05
 
 ## Stats
 
 Stat|Value
 :-|:-
 **Goal**|240.00 lbs on 2023-12-31
-**Current weight**|254.06 lbs
-**BMI**|31.59
-**Lost so far**|13.74 lbs =  5.13% of starting weight
-**Remaining**|14.06 lbs =  5.53% of current  weight
-**Progress**|49.44%
+**Current weight**|254.13 lbs
+**BMI**|31.60
+**Lost so far**|13.67 lbs =  5.10% of starting weight
+**Remaining**|14.13 lbs =  5.56% of current  weight
+**To past low**|0.07 lbs =  0.03% of current  weight
+**Progress**|49.17%
 **Required rate**|0.33 lbs / wk = 0.13% per week
-**Actual rate**|1.06 lbs / wk = 0.42% per week  (r<sup>2</sup> = 0.93)
-**Deficit**|527 kcal / day
-**Target adjust**|364 kcal / day
-**Total burned**|48106 kcal
-**Goal reached**|2023-06-05 (209 days early)
-**Days done**|63
-**Days remaining**|93
+**Actual rate**|0.98 lbs / wk = 0.38% per week  (r<sup>2</sup> = 0.93)
+**Deficit**|487 kcal / day
+**Target adjust**|323 kcal / day
+**Total burned**|47845 kcal
+**Goal reached**|2023-06-14 (200 days early)
+**Days done**|64
+**Days remaining**|101
 
 ## Projections
 
 Date|Projected weight|Loss
 :-|:-|:-
-**2023-07-01**|236.12|31.68
-**2023-12-31**|208.53|59.27
+**2023-07-01**|237.69|30.11
+**2023-12-31**|212.20|55.60
 
 ## Graphs
 
